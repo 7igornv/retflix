@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.66 97.26">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #1d1d1b;
+        font-family: PalatinoLinotype-Bold, 'Palatino Linotype';
+        font-size: 50px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <g>
+        <line class="cls-1" x1="6.08" y1="50.06" x2="6.08" y2="84.27"/>
+        <path class="cls-1" d="m22.88,49.7c-.98,2.94-9.44,8.59-5.05,19.41,3.47,8.56,13.91,13.19,13.91,13.19"/>
+        <path class="cls-2" d="m1.5,19.59h28.32c5.52,0,10,4.48,10,10v10.89c0,5.52-4.48,10-10,10H1.5v-30.89h0Z"/>
+        <path class="cls-2" d="m56.43,45.73l-13.14-5v-11.41l13.14-4.99c2.39-.91,4.98.76,4.98,3.2v15c0,2.44-2.6,4.11-4.98,3.2Z"/>
+        <circle class="cls-2" cx="28.16" cy="9" r="7.5"/>
+        <circle class="cls-2" cx="9" cy="9" r="7.5"/>
+      </g>
+      <text class="cls-3" transform="translate(39.82 82.29)"><tspan x="0" y="0">etFlix</tspan></text>
+    </g>
+  </g>
+</svg>

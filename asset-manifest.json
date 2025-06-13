@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/retflix/static/css/main.f016ce05.css",
+    "main.js": "/retflix/static/js/main.79344702.js",
+    "static/media/Inter-Regular.ttf": "/retflix/static/media/Inter-Regular.fd012577d3f8e88a8149.ttf",
+    "index.html": "/retflix/index.html",
+    "main.f016ce05.css.map": "/retflix/static/css/main.f016ce05.css.map",
+    "main.79344702.js.map": "/retflix/static/js/main.79344702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f016ce05.css",
+    "static/js/main.79344702.js"
+  ]
+}
