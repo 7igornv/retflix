@@ -1,14 +1,33 @@
 {
   "files": {
     "main.css": "/retflix/static/css/main.f016ce05.css",
-    "main.js": "/retflix/static/js/main.ceff0a16.js",
+    "main.js": "/retflix/static/js/main.2eeaf57b.js",
+    "static/media/Slid1.svg": "/retflix/static/media/Slid1.62ba440dc71816f8159503886785fd20.svg",
+    "static/media/blog1.png": "/retflix/static/media/blog1.b108aeba4e5205141b69.png",
+    "static/media/blog2.png": "/retflix/static/media/blog2.8c5e83118777ac8b1f27.png",
     "static/media/Inter-Regular.ttf": "/retflix/static/media/Inter-Regular.fd012577d3f8e88a8149.ttf",
+    "static/media/year10.png": "/retflix/static/media/year10.2e2a461a264de66b5d19.png",
+    "static/media/substance.png": "/retflix/static/media/substance.ee4ff904c25e07db0d29.png",
+    "static/media/titanic.png": "/retflix/static/media/titanic.7826b8f493d1b19fe02d.png",
+    "static/media/one_life.png": "/retflix/static/media/one_life.bc9ad33825fdbc0fedad.png",
+    "static/media/spell.png": "/retflix/static/media/spell.04b105782c80af1b417b.png",
+    "static/media/sky.png": "/retflix/static/media/sky.1dca73646953d32ad2bb.png",
+    "static/media/1+1.png": "/retflix/static/media/1+1.94cc6af3f530f6e68150.png",
+    "static/media/astral.png": "/retflix/static/media/astral.0e5d4a42d28e589cb559.png",
+    "static/media/sergey_gubanov.png": "/retflix/static/media/sergey_gubanov.50a44332861b886c5e00.png",
+    "static/media/mariya_mironova.png": "/retflix/static/media/mariya_mironova.13d92d1afb110cb89f1f.png",
+    "static/media/ilya_noskov.png": "/retflix/static/media/ilya_noskov.ad83bfaab205c172d744.png",
+    "static/media/igor_petrenko.png": "/retflix/static/media/igor_petrenko.e69bbe46eafbfd925157.png",
+    "static/media/nikolay_kozak.png": "/retflix/static/media/nikolay_kozak.bac9d317c36cd79bf4cf.png",
+    "static/media/ivan_batarev.png": "/retflix/static/media/ivan_batarev.7d195f38643d1549c15b.png",
+    "static/media/igor_kopylov.png": "/retflix/static/media/igor_kopylov.b37d9f4ad0f6d0d4c860.png",
+    "static/media/Logo.svg": "/retflix/static/media/Logo.f3f8712f1883545170136feda526245b.svg",
     "index.html": "/retflix/index.html",
     "main.f016ce05.css.map": "/retflix/static/css/main.f016ce05.css.map",
-    "main.ceff0a16.js.map": "/retflix/static/js/main.ceff0a16.js.map"
+    "main.2eeaf57b.js.map": "/retflix/static/js/main.2eeaf57b.js.map"
   },
   "entrypoints": [
     "static/css/main.f016ce05.css",
-    "static/js/main.ceff0a16.js"
+    "static/js/main.2eeaf57b.js"
   ]
 }
